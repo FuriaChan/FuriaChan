@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FuriaChan
-- 👀 I’m interested in mostl cats
+- 👀 I’m interested in mostly cats
 - 🌱 I’m currently learning coding
 
 <!---
